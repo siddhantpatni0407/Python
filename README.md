@@ -1,2 +1,2 @@
-# Python_Programs
+# Python
 Python Programming Codes
