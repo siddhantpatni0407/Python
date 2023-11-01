@@ -1,6 +1,6 @@
-a=10
+a = 10
 print(type(a))
-a=10.5
+a = 10.5
 print(type(a))
-a='siddhant'
+a = 'siddhant'
 print(type(a))
