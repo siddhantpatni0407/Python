@@ -6,8 +6,8 @@ message = "Hello, this is a test message with an image from Python!"
 image_path = "C:/Users/Siddhant Patni/Pictures/Siya.JPG"
 
 # Define the time at which the message should be sent (24-hour format)
-hour = 00
-minute = 21
+hour = 6
+minute = 7
 
 # Send the message with the image
 kit.sendwhats_image(phone_number, image_path, message, wait_time=15, tab_close=True)
