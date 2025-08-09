@@ -1,6 +1,7 @@
-# Python
+# 🚀 Python
 Python Programming Codes
 
+## **📝 Last Updated :** **`2025-08-09`**
 
 ### References:
 
