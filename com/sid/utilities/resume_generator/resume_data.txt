@@ -1,4 +1,3 @@
-
 {
   "personal": {
     "name": "Siddhant Patni",
@@ -8,13 +7,10 @@
     "linkedin": "linkedin.com/in/siddhantpatni0407",
     "github": "github.com/siddhantpatni0407",
     "portfolio": "",
-    "target_role": "Senior Java Developer | Java | Spring Boot | Microservices"
+    "target_role": "Senior Software Engineer | Lead Software Engineer | Java | Spring Boot | Microservices | AI-Assisted Engineering"
   },
-
-  "summary": "Senior Software Engineer with 8 years of experience designing, developing and maintaining scalable enterprise applications and Java-based microservices across construction technology, healthcare, retail and insurance domains. Strong hands-on expertise in Java, Spring Boot, Microservices Architecture, RESTful APIs, Apache Kafka, AWS, Azure, PostgreSQL, MongoDB, Docker and Kubernetes. Experienced in building distributed systems, event-driven applications, cloud-based solutions and optimizing application performance. Proficient across the complete software development lifecycle, including requirement analysis, technical design, implementation, code reviews, CI/CD, deployments and production support. Collaborative engineer with experience mentoring developers, contributing to architecture decisions and working with cross-functional Agile teams.",
-
-  "core_competencies": "Backend Engineering | Microservices Architecture | REST API Development | Event-Driven Systems | Cloud-Native Applications | CI/CD Automation | Containerization | Production Support | Code Reviews | Agile/Scrum",
-
+  "summary": "Senior Software Engineer with nearly 8 years of experience designing and building scalable, cloud-native Java microservices for enterprise applications across construction technology, healthcare, retail and insurance domains. Specialized in Java, Spring Boot, RESTful APIs and event-driven architecture using Apache Kafka, AWS SQS and Kinesis, with hands-on delivery on Docker, Kubernetes, AWS and Azure backed by PostgreSQL, MongoDB and relational databases. Experienced in technical design, CI/CD automation, performance troubleshooting, code reviews and mentoring developers from design through production support. Strong advocate of AI-assisted software engineering: built an AI-powered MR Review agent using custom Kiro Skills, created AI-generated product documentation capturing business and functional knowledge, and use GitHub Copilot and Claude to accelerate coding, testing and debugging.",
+  "core_competencies": "Backend Engineering | Microservices Architecture | REST API Development | Event-Driven Systems | Cloud-Native Applications | AI-Assisted Development | CI/CD Automation | Containerization | Production Support | Code Reviews | Agile/Scrum",
   "skills": [
     {
       "category": "Programming Languages",
@@ -37,6 +33,10 @@
       "items": "AWS, Microsoft Azure, Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD"
     },
     {
+      "category": "AI and Developer Productivity",
+      "items": "GitHub Copilot, Kiro (custom Skills and agents), Claude, Prompt Engineering, AI-assisted Code Review, AI-generated Documentation"
+    },
+    {
       "category": "Databases",
       "items": "PostgreSQL, MySQL, Oracle, DB2, MongoDB"
     },
@@ -57,7 +57,6 @@
       "items": "ReactJS (basic), HTML, CSS"
     }
   ],
-
   "experience": [
     {
       "company": "Xoriant",
@@ -66,19 +65,16 @@
       "location": "Pune, Maharashtra, India",
       "project": "Hilti | ON!Track | Construction Technology",
       "bullets": [
-        "Develop and maintain Java and Spring Boot microservices supporting backend capabilities for Hilti's ON!Track product.",
-        "Design, develop and enhance RESTful APIs to enable reliable communication between backend services and frontend applications.",
+        "Develop and maintain Java and Spring Boot microservices and RESTful APIs powering backend capabilities of Hilti's ON!Track product.",
+        "Integrate AWS SQS and AWS Kinesis for asynchronous messaging, streaming and event-driven workflows.",
+        "Build, deploy and support containerized microservices on Docker and Kubernetes, with PostgreSQL and MongoDB persistence.",
         "Build and integrate ReactJS UI components with backend REST APIs for end-to-end feature delivery.",
-        "Integrate AWS SQS and AWS Kinesis to support asynchronous messaging, streaming and event-driven workflows.",
-        "Build, deploy and support containerized microservices using Docker and Kubernetes in cloud environments.",
-        "Work with PostgreSQL and MongoDB to implement and maintain relational and NoSQL data persistence.",
-        "Investigate production issues, perform debugging and root-cause analysis, and deliver defect fixes and feature enhancements.",
-        "Contribute to release activities, deployment support and operational troubleshooting in cloud-native environments.",
-        "Collaborate with QA, DevOps and Product Owner teams on requirements, technical design, estimation and Agile delivery.",
-        "Provide technical guidance to junior developers, participate in peer code reviews and promote maintainable engineering practices."
+        "Implemented multiple custom Skills in Kiro to build an AI-powered MR Review agent, automating merge request reviews for coding standards, best practices and potential defects.",
+        "Created comprehensive product documentation using AI (Claude, Kiro), capturing the business and functional knowledge of the product for faster onboarding.",
+        "Use GitHub Copilot and Claude for code generation, refactoring, unit test creation and faster troubleshooting.",
+        "Perform production debugging and root-cause analysis, support releases, mentor junior developers and conduct peer code reviews."
       ]
     },
-
     {
       "company": "LTIMindtree",
       "role": "Specialist Software Engineer",
@@ -86,17 +82,13 @@
       "location": "Pune, Maharashtra, India",
       "project": "Philips | Healthcare",
       "bullets": [
-        "Designed, developed and supported Java Spring Boot microservices using Docker, Kubernetes and Microsoft Azure.",
-        "Contributed across the microservices lifecycle, from technical design and implementation to deployment and monitoring.",
-        "Automated build, test and deployment workflows using GitHub Actions and CI/CD pipelines.",
+        "Designed, developed and supported Java Spring Boot microservices on Docker, Kubernetes and Microsoft Azure across the full lifecycle.",
         "Developed REST-based and event-driven integrations using Apache Kafka and Spring Data JPA.",
-        "Collaborated with Technical Architects on solution design, architecture discussions and performance considerations.",
-        "Reviewed code and mentored junior developers, encouraging clean code, maintainability and consistent engineering standards.",
-        "Supported Kubernetes deployments, application troubleshooting, technical documentation and knowledge sharing.",
+        "Automated build, test and deployment workflows using GitHub Actions CI/CD pipelines.",
+        "Collaborated with Technical Architects on solution design and performance; reviewed code and mentored junior developers.",
         "Developed internal utility applications to streamline engineering workflows and improve developer productivity."
       ]
     },
-
     {
       "company": "LTIMindtree",
       "role": "Module Lead",
@@ -105,15 +97,11 @@
       "project": "Adidas | Membership and Voucher Systems",
       "bullets": [
         "Developed and enhanced Java and Spring Boot microservices supporting Adidas membership capabilities across multiple countries.",
-        "Designed and implemented RESTful APIs for communication between microservices and external systems.",
-        "Created and maintained SQL scripts to support membership features and market-specific business requirements.",
-        "Enhanced voucher-management capabilities to support rollout requirements across multiple markets.",
-        "Partnered with cross-functional teams to investigate application issues, resolve defects and deliver enhancements.",
-        "Used Bitbucket for source control and supported code integration, deployments and environment synchronization.",
-        "Participated in technical discussions and workshops focused on Java, Spring Boot and software engineering practices."
+        "Designed RESTful APIs and maintained SQL scripts for membership features and market-specific business requirements.",
+        "Enhanced voucher-management capabilities to support rollout across multiple markets.",
+        "Partnered with cross-functional teams to resolve defects, deliver enhancements and support deployments via Bitbucket."
       ]
     },
-
     {
       "company": "Sapiens",
       "role": "Software Developer",
@@ -121,18 +109,13 @@
       "location": "Bengaluru, Karnataka, India",
       "project": "ClaimsPro | North American Insurance",
       "bullets": [
-        "Developed and enhanced Java-based insurance claims functionality, business rules and integrations for three US-based clients.",
-        "Implemented application business logic and system integrations using Java and Spring technologies.",
-        "Designed and optimized SQL queries across MySQL, Oracle and other relational databases to support efficient data retrieval.",
-        "Transformed data using XML and XSLT for external-system integrations while maintaining data consistency.",
-        "Enhanced application interfaces using JSP, HTML and CSS.",
-        "Contributed to design, development, testing and maintenance across development, UAT and production environments.",
-        "Performed debugging and root-cause analysis, resolved defects and supported fixes through integration testing and UAT.",
-        "Installed and configured JBoss and Apache Tomcat application servers and supported deployment and release activities."
+        "Developed Java and Spring-based insurance claims functionality, business rules and integrations for three US-based clients.",
+        "Designed and optimized SQL queries across MySQL, Oracle and other relational databases.",
+        "Transformed data using XML and XSLT for external-system integrations and enhanced UIs using JSP, HTML and CSS.",
+        "Performed root-cause analysis and defect fixes across UAT and production; configured JBoss and Apache Tomcat servers."
       ]
     }
   ],
-
   "projects": [
     {
       "name": "Kafka Manager Application",
@@ -145,7 +128,6 @@
       "description": "Developed a web-based shopping application to help customers in India discover and purchase products tagged with Geographical Indications."
     }
   ],
-
   "education": [
     {
       "qualification": "PG-DAC – Diploma in Advanced Computing",
@@ -158,12 +140,10 @@
       "dates": "June 2013 – August 2017"
     }
   ],
-
   "certifications": [
     "Java and J2EE Technologies – CDAC, Pune (August 2018 – February 2019)",
     "Web Technologies – IBM Certification in Core Java (June 2016)"
   ],
-
   "awards": [
     {
       "organization": "Xoriant",
@@ -187,8 +167,12 @@
       ]
     }
   ],
-
-  "additional_information": {
-    "Languages": "English, Hindi, Marathi"
+  "personal_details": {
+    "Date of Birth": "04-JULY-1995",
+    "Nationality": "Indian",
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Language Known": "English, Hindi, Marathi",
+    "Visa Details": "Canada (Valid till 2029)"
   }
 }
