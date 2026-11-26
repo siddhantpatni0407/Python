@@ -8,8 +8,7 @@
     "linkedin": "linkedin.com/in/siddhantpatni0407",
     "github": "github.com/siddhantpatni0407",
     "portfolio": "",
-    "target_role": "Senior Java Developer | Java | Spring Boot | Microservices",
-    "availability": "Available from January 2027 | Preferred location: Pune"
+    "target_role": "Senior Java Developer | Java | Spring Boot | Microservices"
   },
 
   "summary": "Senior Software Engineer with 8 years of experience designing, developing and maintaining scalable enterprise applications and Java-based microservices across construction technology, healthcare, retail and insurance domains. Strong hands-on expertise in Java, Spring Boot, Microservices Architecture, RESTful APIs, Apache Kafka, AWS, Azure, PostgreSQL, MongoDB, Docker and Kubernetes. Experienced in building distributed systems, event-driven applications, cloud-based solutions and optimizing application performance. Proficient across the complete software development lifecycle, including requirement analysis, technical design, implementation, code reviews, CI/CD, deployments and production support. Collaborative engineer with experience mentoring developers, contributing to architecture decisions and working with cross-functional Agile teams.",
