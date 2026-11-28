@@ -1,0 +1,178 @@
+{
+  "personal": {
+    "name": "Siddhant Patni",
+    "location": "Pune, Maharashtra, India",
+    "phone": "+91-7588811796",
+    "email": "siddhant4patni@gmail.com",
+    "linkedin": "linkedin.com/in/siddhantpatni0407",
+    "github": "github.com/siddhantpatni0407",
+    "portfolio": "",
+    "target_role": "Senior/Lead Software Engineer | AI-Powered Engineering | Java | Spring Boot & Microservices | Cloud-Native Architecture"
+  },
+  "summary": "**Senior Software Engineer** with nearly 8 years of experience designing, developing, and delivering scalable, cloud-native Java microservices across construction technology, healthcare, retail, and insurance domains. Strong expertise in **Java, Spring Boot, RESTful APIs, event-driven architecture, Apache Kafka, AWS SQS, AWS Kinesis, Docker, Kubernetes, AWS, and Azure**. Experienced in building **AI agents and LLM-powered engineering tools** to automate code reviews, technical documentation, and software testing, improving developer productivity and engineering efficiency. Proven ability to drive technical design and implementation, streamline CI/CD pipelines, troubleshoot production issues, conduct code reviews, and mentor engineers while delivering reliable, high-quality software solutions.",
+  "core_competencies": "Java Backend Development | Spring Boot Microservices | RESTful API Design | System Design | Event-Driven Architecture (Kafka) | Cloud-Native Applications (AWS and Azure) | Docker and Kubernetes | Performance Optimization | CI/CD Automation | Production Support and Troubleshooting | Code Reviews and Mentoring | Agile/Scrum | AI-Assisted Development | Prompt Engineering",
+  "skills": [
+    {
+      "category": "AI and LLM Tools",
+      "items": "AI Agents, Kiro (custom Skills), Claude, GitHub Copilot, Prompt Engineering, LLM Integration, AI-Assisted Code Review, AI-Generated Documentation"
+    },
+    {
+      "category": "Programming Languages",
+      "items": "Java, J2EE, JavaScript (basic), SQL"
+    },
+    {
+      "category": "Frameworks and Backend",
+      "items": "Spring Boot, Spring MVC, Spring Cloud, Spring Security, Spring Data JPA, Hibernate, Spring Reactive, JSP"
+    },
+    {
+      "category": "Microservices and APIs",
+      "items": "Microservices Architecture, RESTful APIs, SOAP, API Integration, Event-Driven Architecture"
+    },
+    {
+      "category": "Messaging",
+      "items": "Apache Kafka, AWS SQS, AWS Kinesis"
+    },
+    {
+      "category": "Cloud and DevOps",
+      "items": "AWS, Microsoft Azure, Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD"
+    },
+    {
+      "category": "Databases",
+      "items": "PostgreSQL, MySQL, Oracle, DB2, MongoDB, Redis"
+    },
+    {
+      "category": "Testing and Monitoring",
+      "items": "JUnit, Mockito, Prometheus, Grafana, Kibana"
+    },
+    {
+      "category": "Build and Collaboration",
+      "items": "Maven, Gradle, Git, GitHub, GitLab, Bitbucket, Agile, Scrum"
+    },
+    {
+      "category": "Security",
+      "items": "OAuth 2.0, JWT, SSL/TLS"
+    },
+    {
+      "category": "Frontend",
+      "items": "ReactJS (basic), HTML, CSS"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Xoriant",
+      "role": "Senior Software Engineer",
+      "dates": "June 2025 – Present",
+      "location": "Pune, Maharashtra, India",
+      "project": "Hilti | ON!Track | Construction Technology",
+      "bullets": [
+        "Built an AI-powered merge request review agent with custom Kiro Skills that checks coding standards, best practices and potential defects.",
+        "Generated complete product documentation with Claude and Kiro, capturing business and functional knowledge for faster onboarding.",
+        "Applied GitHub Copilot and Claude to code generation, refactoring, unit testing and troubleshooting.",
+        "Develop and maintain Java and Spring Boot microservices and RESTful APIs for Hilti's ON!Track product.",
+        "Integrate AWS SQS and AWS Kinesis for asynchronous messaging, streaming and event-driven workflows.",
+        "Deploy and support containerized microservices on Docker and Kubernetes with PostgreSQL and MongoDB.",
+        "Integrate ReactJS UI components with backend REST APIs for end-to-end feature delivery.",
+        "Lead production debugging and root-cause analysis, support releases, mentor junior developers and review code."
+      ]
+    },
+    {
+      "company": "LTIMindtree",
+      "role": "Specialist Software Engineer",
+      "dates": "April 2023 – June 2025",
+      "location": "Pune, Maharashtra, India",
+      "project": "Philips | Healthcare",
+      "bullets": [
+        "Designed, developed and supported Java Spring Boot microservices on Docker, Kubernetes and Microsoft Azure across the full lifecycle.",
+        "Developed REST-based and event-driven integrations using Apache Kafka and Spring Data JPA.",
+        "Automated build, test and deployment workflows using GitHub Actions CI/CD pipelines.",
+        "Collaborated with Technical Architects on solution design and performance; reviewed code and mentored junior developers.",
+        "Developed internal utility applications to streamline engineering workflows and improve developer productivity.",
+        "Adopted GitHub Copilot early in the team to speed up unit test creation and code reviews."
+      ]
+    },
+    {
+      "company": "LTIMindtree",
+      "role": "Module Lead",
+      "dates": "January 2022 – March 2023",
+      "location": "Pune, Maharashtra, India",
+      "project": "Adidas | Membership and Voucher Systems",
+      "bullets": [
+        "Developed and enhanced Java and Spring Boot microservices supporting Adidas membership capabilities across multiple countries.",
+        "Designed RESTful APIs and maintained SQL scripts for membership features and market-specific business requirements.",
+        "Enhanced voucher-management capabilities to support rollout across multiple markets.",
+        "Partnered with cross-functional teams to resolve defects, deliver enhancements and support deployments via Bitbucket."
+      ]
+    },
+    {
+      "company": "Sapiens",
+      "role": "Software Developer",
+      "dates": "March 2019 – January 2022",
+      "location": "Bengaluru, Karnataka, India",
+      "project": "ClaimsPro | North American Insurance",
+      "bullets": [
+        "Developed Java and Spring-based insurance claims functionality, business rules and integrations for three US-based clients.",
+        "Designed and optimized SQL queries across MySQL, Oracle and other relational databases.",
+        "Transformed data using XML and XSLT for external-system integrations and enhanced UIs using JSP, HTML and CSS.",
+        "Performed root-cause analysis and defect fixes across UAT and production; configured JBoss and Apache Tomcat servers."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Kafka Manager Application",
+      "technology": "ReactJS, Spring Boot, Apache Kafka",
+      "description": "Built a utility application with a ReactJS interface and Spring Boot microservices to manage Kafka operations. Features included Kafka setup, server start/stop, health checks, topic creation and configuration, topic details, message publishing and consumption, topic deletion and log clearing through dynamic configuration."
+    },
+    {
+      "name": "GI-OnlineMart – Geographical Indications Shopping Site",
+      "technology": "Spring-Hibernate MVC, MySQL",
+      "description": "Developed a web-based shopping application to help customers in India discover and purchase products tagged with Geographical Indications."
+    }
+  ],
+  "education": [
+    {
+      "qualification": "PG-DAC – Diploma in Advanced Computing",
+      "institution": "Institute of Advanced Computing and Software Development (IACSD), Pune",
+      "dates": "August 2018 – February 2019"
+    },
+    {
+      "qualification": "Bachelor of Engineering – Computer Engineering",
+      "institution": "Sanjivani College of Engineering, Kopargaon",
+      "dates": "June 2013 – August 2017"
+    }
+  ],
+  "certifications": [
+    "Java and J2EE Technologies – CDAC, Pune (August 2018 – February 2019)",
+    "Web Technologies – IBM Certification in Core Java (June 2016)"
+  ],
+  "awards": [
+    {
+      "organization": "Xoriant",
+      "items": [
+        "Spot Award – Q2 2026",
+        "Hilti Certificate of Appreciation"
+      ]
+    },
+    {
+      "organization": "LTIMindtree",
+      "items": [
+        "Shooting Star Award – March 2025",
+        "Star Performer Award – January 2024"
+      ]
+    },
+    {
+      "organization": "Sapiens",
+      "items": [
+        "Award of Excellence",
+        "WOW Award – January 2020"
+      ]
+    }
+  ],
+  "personal_details": {
+    "Nationality": "Indian",
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Language Known": "English, Hindi, Marathi",
+    "Visa Details": "Canada (Valid till 2029)"
+  }
+}
