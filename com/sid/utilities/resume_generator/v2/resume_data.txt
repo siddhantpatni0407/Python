@@ -65,13 +65,13 @@
       "location": "Pune, Maharashtra, India",
       "project": "Hilti | ON!Track | Construction Technology",
       "bullets": [
+		"Develop and maintain Java and Spring Boot microservices and RESTful APIs for Hilti's ON!Track product.",
+		"Integrate AWS SQS and AWS Kinesis for asynchronous messaging, streaming and event-driven workflows.",
+        "Deploy and support containerized microservices on Docker and Kubernetes with PostgreSQL and MongoDB.",
+        "Integrate ReactJS UI components with backend REST APIs for end-to-end feature delivery.",
         "Built an AI-powered merge request review agent with custom Kiro Skills that checks coding standards, best practices and potential defects.",
         "Generated complete product documentation with Claude and Kiro, capturing business and functional knowledge for faster onboarding.",
         "Applied GitHub Copilot and Claude to code generation, refactoring, unit testing and troubleshooting.",
-        "Develop and maintain Java and Spring Boot microservices and RESTful APIs for Hilti's ON!Track product.",
-        "Integrate AWS SQS and AWS Kinesis for asynchronous messaging, streaming and event-driven workflows.",
-        "Deploy and support containerized microservices on Docker and Kubernetes with PostgreSQL and MongoDB.",
-        "Integrate ReactJS UI components with backend REST APIs for end-to-end feature delivery.",
         "Lead production debugging and root-cause analysis, support releases, mentor junior developers and review code."
       ]
     },
