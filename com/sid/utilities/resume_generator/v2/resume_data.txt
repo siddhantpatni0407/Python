@@ -14,7 +14,7 @@
   "skills": [
     {
       "category": "AI and LLM Tools",
-      "items": "AI Agents, Kiro (custom Skills), Claude, GitHub Copilot, Prompt Engineering, LLM Integration, AI-Assisted Code Review, AI-Generated Documentation"
+      "items": "AI Agents, Kiro (custom Skills), Claude, GitHub Copilot, Prompt Engineering, AI-Assisted Code Review, AI-Generated Documentation"
     },
     {
       "category": "Programming Languages",
